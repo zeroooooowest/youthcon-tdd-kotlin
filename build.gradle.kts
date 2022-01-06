@@ -45,6 +45,7 @@ dependencies {
     testImplementation("io.kotest.extensions:kotest-extensions-testcontainers:1.1.1")
 
     testImplementation("io.mockk:mockk:1.12.2")
+    testImplementation("com.ninja-squad:springmockk:3.1.0")
 
     testImplementation("io.rest-assured:rest-assured:4.4.0")
     testImplementation("io.rest-assured:kotlin-extensions:4.4.0")
