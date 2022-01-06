@@ -41,6 +41,9 @@ dependencies {
     testImplementation("io.kotest:kotest-runner-junit5-jvm:5.0.3")
     testImplementation("io.kotest:kotest-assertions-core-jvm:5.0.3")
     testImplementation("io.kotest:kotest-property-jvm:5.0.3")
+    testImplementation("io.kotest.extensions:kotest-extensions-spring:1.1.0")
+    testImplementation("io.kotest.extensions:kotest-extensions-testcontainers:1.1.1")
+
     testImplementation("io.mockk:mockk:1.12.2")
 
     testImplementation("io.rest-assured:rest-assured:4.4.0")
