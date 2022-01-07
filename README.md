@@ -4,6 +4,6 @@
 
 
 * Kotlin 1.6.10 + Spring Boot 2.6 + OpenFeign
-* Kotest + MockK
-* MySql + TestContainers
+* Spring Data JPA + MySQL
+* Kotest + MockK + RestAssured + TestContainers
 
